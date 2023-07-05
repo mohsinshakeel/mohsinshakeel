@@ -20,14 +20,14 @@
 </p>
 
 #### Now
-- :fire: Interested in DevOps and Cloud engineering and Full stack development
+- :fire: Interested in Front-End and Full stack development
 - :calendar: Looking for contributing to node based open source projects 
 
 #### Bio
 - 🏢 I'm currently working at **Upwork**
 - ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sh`
-- 🌱 Learning all about **DevOps & Full Stack Development**
-- 💬 Ping me about **Node**, **React**, **React Native**, **Python**,  **Docker**, **RestAPIs**
+- 🌱 Learning all about **Front-End & Full Stack Development**
+- 💬 Ping me about **Node**, **Nest**,**React**, **Next**,**React Native**, **RestAPIs**
 - 📫 Reach me: [linkedin.com/in/mohsin-ali-0976901b2/](https://www.linkedin.com/in/mohsin-ali-0976901b2/)
 - 📝 Checkout my [Resume](Resume.pdf).
 
@@ -37,10 +37,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsinshakeel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinshakeel&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </p>
-<!-- 
-![Languages](https://wakatime.com/share/@mohsinshakeel/94420ed9-0f35-4138-b57b-490c78441159.svg)
 
-![Languages](https://wakatime.com/share/@mohsinshakeel/18ae3c71-ae46-472d-96fa-62d4b9d48b19.svg) -->
+
+![Languages](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/c0c5209d-e7c9-46eb-9442-7833fc26b224.svg)
+![Operating-Systems](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/4c7b793c-2e67-4377-b7da-a6df08d65f28.svg)
 
 #### Connect With Me
 
