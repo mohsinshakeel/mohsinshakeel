@@ -28,8 +28,7 @@
 - ⚙️ I use daily: `.py`, `.js`, `.ts`, `.sh`
 - 🌱 Learning all about **Front-End & Full Stack Development**
 - 💬 Ping me about **Node**, **Nest**,**React**, **Next**,**React Native**, **RestAPIs**
-- 📫 Reach me: [linkedin.com/in/mohsin-ali-0976901b2/](https://www.linkedin.com/in/mohsin-ali-0976901b2/)
-- 📝 Checkout my [Resume](Resume.pdf).
+
 
 #### Development Stuffs:
 <b>⚡ Github Stats</b>
