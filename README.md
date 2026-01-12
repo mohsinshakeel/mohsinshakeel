@@ -40,14 +40,3 @@
 
 ![Languages](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/c0c5209d-e7c9-46eb-9442-7833fc26b224.svg)
 <!-- ![Operating-Systems](https://wakatime.com/share/@a5c8f5bc-dadf-4b90-9d88-8f48a845cbd7/4c7b793c-2e67-4377-b7da-a6df08d65f28.svg) -->
-
-#### Connect With Me
-
-<p left="center">
-  <a href="https://www.linkedin.com/in/mohsin-ali-0976901b2/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a> 
-  <a href="mailto:mohsinshakeel98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-  </a>
-</p>
